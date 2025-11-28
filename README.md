@@ -1,2 +1,3 @@
 # NEXFIT
-Projeto criado via Lasy - clone-cal-ai
+Projeto criado via Lasy - NexFit AI
+
